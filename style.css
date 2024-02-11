@@ -1,5 +1,6 @@
 body {
-    background-image: url('images/boxingEYEtest.webp');
+/*  background-image: url('images/boxingEYEtest.webp');  */
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWphMmMwNDE0aHZ3a3E4bmNnZTl0cmF1bmliZnljbTM0ZDhwbzYxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q5FHlXeyibg20evCqX/giphy.gif");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: black;
